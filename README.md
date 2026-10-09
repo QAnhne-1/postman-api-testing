@@ -1,7 +1,7 @@
 # Báo Cáo Thực Hành: Kiểm Thử API Bằng Postman
 
-- **Họ và tên:** Tuyển Hoàng Trung
-- **Mã số sinh viên:** 23010188
+- **Họ và tên:** Lê Quang Anh
+- **Mã số sinh viên:** 23010275
 - **Tài liệu tham khảo:** [Postman Api Testing Tutorial for beginners - Codemify](https://www.youtube.com/watch?v=MFxk5BZulVU)
 
 ---
